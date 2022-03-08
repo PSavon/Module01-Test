@@ -38,7 +38,7 @@ ul > li {
 .post {
     padding-bottom: 20px;
 }
-.footer{
+footer{
     font-size: 13px;
 }
 
@@ -49,5 +49,5 @@ a{
 }
 h1, h2, h3 {
     text-transform: uppercase;
-    letter-spacing: 0.5;
+    letter-spacing: 0.5px;
 }
