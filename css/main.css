@@ -1,5 +1,5 @@
 body{
-    background-color:burlywood;
+    background-color:green;
     text-align: center;
     font-family: 'Nunito Sans', sans-serif;
 }
@@ -16,4 +16,5 @@ li{
 }
 a{
     text-decoration: none;
+    color:yellow;
 } 
