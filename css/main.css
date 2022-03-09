@@ -1,20 +1,21 @@
 body{
-    background-color:burlywood;
+    background-color:green;
     text-align: center;
     font-family: 'Nunito Sans', sans-serif;
 }
 h1{
-    color:rgb(0, 0, 0); 
-    font-weight: 900;  
+    color:rgb(0, 0, 0);
+    font-weight: 900;
 }
 p{
-    color: green;
-    
+    color: blue;
+
 }
 li{
     list-style-type: none;
 }
 a{
     text-decoration: none;
+
     color:aqua;
-} 
+}
