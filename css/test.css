@@ -34,7 +34,7 @@ ul > li {
     border-bottom: 1px solid #000;
 }
 .aside {
-   background-color: lavender;
+   background-color:#E6E6FA;
    padding:10px 20px;
 
 }
@@ -56,7 +56,7 @@ h1, h2, h3 {
     letter-spacing: 0.5px;
 }
 section{
-    background-color:lavender;
+    background-color:#E6E6FA;
     padding:5px 20px;
     margin-bottom:20px;
 }
